@@ -1,0 +1,2 @@
+# pcrbot_project_based_hoshino
+基于hoshino的自用型bot的持续演进版本，仅自用
