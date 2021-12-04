@@ -1,2 +1,2 @@
 # pcrbot_project_based_hoshino
-基于hoshino的自用型bot的持续演进版本，仅自用
+基于hoshino的自用型bot的持续魔改版本，什么时候想改了就上来魔改一下，反正也没人管
