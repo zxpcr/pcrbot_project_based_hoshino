@@ -1,3 +1,4 @@
 # pcrbot_project_based_hoshino
 新建仓库
 基于hoshino的自用型bot的持续魔改版本，什么时候想改了就上来魔改一下，反正也没人管
+当然了不可能有源码的，别想了
